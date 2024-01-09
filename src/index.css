@@ -15,3 +15,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+select option[value="hireMe"] {
+  background:  #512DA8;
+}
+
+select option[value="openSource"] {
+  background:  #512DA8;
+}
+
+select option[value="other"] {
+  background:  #512DA8;
+}
